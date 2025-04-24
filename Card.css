@@ -1,0 +1,31 @@
+.card {
+    background-color: darkslateblue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    align-self: center;
+    justify-self: center;
+
+}
+
+
+.card h3 {
+    font-size: 20px;
+    color: #333;
+
+}
+
+.card p {
+    color: aquamarine;
+    
+}
+
+.card button {
+    padding: 10 px 20 px;
+    background-color: cornflowerblue;
+    color: beige;
+    border: none;
+    border-radius: 5px;
+
+}
